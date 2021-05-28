@@ -1,0 +1,2 @@
+# Analyzing-US-Economic-Data-and-Building-a-Dashboard
+In this assignment, as a data scientist working at a real estate investment trust. The trust would like to start investing in Residential real estate. I am tasked with determining the market price of a house given a set of features. I have analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on.
