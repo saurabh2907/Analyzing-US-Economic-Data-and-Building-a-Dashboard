@@ -1,3 +1,4 @@
+![Unemployment stats according to GDP](https://user-images.githubusercontent.com/83023654/120009005-29900b80-bff9-11eb-9390-6a391176eb6c.jpg)
 # Analyzing-US-Economic-Data-and-Building-a-Dashboard
 In this project, as a data scientist working at a real estate investment trust. The trust would like to start investing in Residential real estate. I am tasked with determining the market price of a house given a set of features. I have analyzed and predicted housing prices using attributes or features such as square footage, number of bedrooms, number of floors and so on.
 
